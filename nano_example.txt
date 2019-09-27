@@ -4,3 +4,6 @@
 # The file actually opened !! use nano -w file_name to either create the file if it did not exist or open it if it already exists
 # Neptune's rings are awe inspiring
 # And I love sleeping in a chocolate fountain
+# Peter Piper picked a peck of pepper. Did Peter Piper pick a peck of pepper? Yes Peter Piper picked a peck of pepper
+
+Victoire, my friend, ne vois-tu rien venir?
