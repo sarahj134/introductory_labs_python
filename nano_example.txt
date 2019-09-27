@@ -1,0 +1,4 @@
+# Roses are red and violets are blue, xx and yy and so are you
+# If you cat this file, the text typed here will appear
+# The file actually opened !! use nano -w file_name to either create the file if it did not exist or open it if it already exists
+
