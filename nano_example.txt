@@ -4,3 +4,4 @@
 # The file actually opened !! use nano -w file_name to either create the file if it did not exist or open it if it already exists
 # Neptune's rings are awe inspiring
 # And I love sleeping in a chocolate fountain
+# Mets des paillettes dans ma vie Kevin
