@@ -1,4 +1,0 @@
-git config --global user.email "sarahjallot@hotmail.fr"
-git config --l to see if 
-git config --global core.editor "nano -w"
-
